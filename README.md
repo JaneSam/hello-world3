@@ -1,2 +1,4 @@
 # hello-world3
-Just another repository
+
+hello humans
+i am sam and i like to be with jane
